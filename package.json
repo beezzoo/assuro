@@ -12,7 +12,7 @@
   "dependencies": {
     "derby": "0.5.x",
     "express": "~3.2.5",
-    "redis": "~0.8.3",
+    "redis": "~0.12.1",
     "livedb-mongo": "~0.2.0",
     "racer-browserchannel": "~0.1.0",
     "connect-mongo": "~0.3.2",
