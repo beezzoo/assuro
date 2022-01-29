@@ -10,7 +10,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "derby": "0.5.x",
+    "derby": "0.10.31",
     "express": "~3.2.5",
     "redis": "~0.8.3",
     "livedb-mongo": "~0.2.0",
