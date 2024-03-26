@@ -10,8 +10,8 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "derby": "0.5.x",
-    "express": "~3.2.5",
+    "derby": "0.7.1",
+    "express": "~4.19.2",
     "redis": "~0.8.3",
     "livedb-mongo": "~0.2.0",
     "racer-browserchannel": "~0.1.0",
